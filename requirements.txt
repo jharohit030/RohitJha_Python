@@ -5,3 +5,6 @@ xml.etree.ElementTree
 logging
 os
 unittest
+from io import StringIO
+pandas
+boto3
